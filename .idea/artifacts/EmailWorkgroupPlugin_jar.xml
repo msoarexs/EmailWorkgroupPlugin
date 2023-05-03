@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EmailWorkgroupPlugin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EmailWorkgroupPlugin_jar</output-path>
+    <root id="archive" name="EmailWorkgroupPlugin.jar">
+      <element id="module-output" name="EmailWorkgroupPlugin" />
+    </root>
+  </artifact>
+</component>
